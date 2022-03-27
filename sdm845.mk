@@ -389,3 +389,6 @@ PRODUCT_COPY_FILES += \
 # Remove unwanted packages
 PRODUCT_PACKAGES += \
     RemovePackages
+
+# Quick Tap
+TARGET_SUPPORTS_QUICK_TAP := true
